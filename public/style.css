@@ -1,24 +1,67 @@
 body {
-  font-family: sans-serif;
-  margin: auto;
-  max-width: 1280px;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    color: #853B3A;
 }
 
-.navbar {
-  background-color: #313236;
-  border-radius: 2px;
-  max-width: 800px;
+.gif {
+    max-width: 100vw;
+    max-height: 97.8vh;
 }
 
-.navbar a {
-  color: #aaa;
-  display: inline-block;
-  font-size: 15px;
-  padding: 10px;
-  text-decoration: none;
+.text-container {
+    margin: 150px 100px;
+    text-align: center;
 }
 
-.navbar a:hover {
-  color: #ffffff;
+.header {
+    font-family: 'Covered By Your Grace', cursive;
+    font-size: 80px;
+    color: #853B3A;
+    margin-bottom: 30px;
 }
 
+.secondary-text,
+.form {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    width: 350px;
+}
+
+.form {
+    cursor: pointer;
+    margin-top: 100px;
+    background: #23356c;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    transition: 0.5s;
+}
+
+.form:hover,
+.form:focus {
+    color: #23356c;
+    background-color: white;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover,
+a:focus {
+    color: #23356c;
+    text-decoration: none;
+}
+
+::selection {
+    background: #23356c;
+    color: white;
+}
+
+::-moz-selection {
+    background: #23356c;
+    color: white;
+}
