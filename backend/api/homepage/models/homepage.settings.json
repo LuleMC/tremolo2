@@ -1,9 +1,8 @@
 {
   "kind": "collectionType",
-  "collectionName": "blogs",
+  "collectionName": "homepages",
   "info": {
-    "name": "blog",
-    "description": ""
+    "name": "homepage"
   },
   "options": {
     "increments": true,
@@ -12,11 +11,12 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "post": {
-      "type": "richtext"
+    "field_name": {
+      "type": "string",
+      "required": false
     },
-    "title": {
-      "type": "string"
+    "text": {
+      "type": "richtext"
     }
   }
 }

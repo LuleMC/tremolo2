@@ -1,0 +1,52 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/open-calls",
+      "handler": "open-call.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/open-calls/count",
+      "handler": "open-call.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/open-calls/:id",
+      "handler": "open-call.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/open-calls",
+      "handler": "open-call.create",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/open-calls/:id",
+      "handler": "open-call.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/open-calls/:id",
+      "handler": "open-call.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

@@ -1,9 +1,8 @@
 {
   "kind": "collectionType",
-  "collectionName": "blogs",
+  "collectionName": "contacts",
   "info": {
-    "name": "blog",
-    "description": ""
+    "name": "contact"
   },
   "options": {
     "increments": true,
@@ -12,11 +11,11 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "post": {
-      "type": "richtext"
-    },
-    "title": {
+    "contact_name": {
       "type": "string"
+    },
+    "email": {
+      "type": "email"
     }
   }
 }

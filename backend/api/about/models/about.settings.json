@@ -1,9 +1,8 @@
 {
   "kind": "collectionType",
-  "collectionName": "blogs",
+  "collectionName": "abouts",
   "info": {
-    "name": "blog",
-    "description": ""
+    "name": "About"
   },
   "options": {
     "increments": true,
@@ -12,11 +11,8 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "post": {
+    "About": {
       "type": "richtext"
-    },
-    "title": {
-      "type": "string"
     }
   }
 }

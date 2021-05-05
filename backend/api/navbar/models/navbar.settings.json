@@ -1,9 +1,8 @@
 {
   "kind": "collectionType",
-  "collectionName": "blogs",
+  "collectionName": "navbars",
   "info": {
-    "name": "blog",
-    "description": ""
+    "name": "navbar"
   },
   "options": {
     "increments": true,
@@ -12,8 +11,8 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "post": {
-      "type": "richtext"
+    "field_name": {
+      "type": "string"
     },
     "title": {
       "type": "string"
