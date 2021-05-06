@@ -1,0 +1,547 @@
+{
+    "homepages": [{
+            "id": 4,
+            "field_name": "about_long_description",
+            "text": "Our project will create an organic link between our cultural NGOs that are already active in the fields of music at local and regional level, in Hungary, Serbia and Italy, allowing us to expand the range of activities to a wider Trans-European level, and to actively support the international mobility of artists and cultural operators from our regions. We all share common values and a positive effort towards the preservation and enhancement of traditional music and local cultural heritage, not expressed through the replication and “musification” of the masterpieces of the folk culture of the past, but through the contemporary use of traditional instruments, techniques and repertories, that are still useful and meaningful in today’s global culture. Another common foundation is that we believe in the power of music to unite people of different age, language and culture, creating a common ground where the preservation and appreciation of diversity becomes an added value for the development of a new European identity. The TREMOLO project wants to bridge the gap between the compelling creativity in the field of living traditional music and the international music scene. It will function as an innovative liquid infrastructure that will help artists and cultural operators to travel at a European level, to exchange and share experience and opportunities, and to learn, develop and put into practice innovative strategies for transnational mobility through a developing network. We consider the creation of an Organic Link among the project partners one of the first and most important outcomes of the project. The concept of TREMOLO project is based on an extendable network of cultural and creative organizations and operators that share values and aims, and cooperate to boost the transnational mobility of music and musicians with a common approach that links traditional intangible heritage with contemporary mainstream of global culture.\n",
+            "published_at": "2021-05-05T06:52:01.483Z",
+            "created_at": "2021-05-05T06:51:59.989Z",
+            "updated_at": "2021-05-05T06:52:01.510Z"
+        },
+        {
+            "id": 5,
+            "field_name": "about_mobile_description",
+            "text": "Our project will create an organic link between our cultural NGOs\n              that are already active in the fields of music at local and regional\n              level, in Hungary, Serbia and Italy, allowing us to expand the range\n              of activities to a wider Trans-European level, and to actively\n              support the international mobility of artists and cultural operators\n              from our regions. We all share common values and a positive effort\n              towards the preservation and enhancement of traditional music and\n              local cultural heritage, not expressed through the replication and\n              “musification” of the masterpieces of the folk culture of the past,\n              but through the contemporary use of traditional instruments,\n              techniques and repertories, that are still useful and meaningful in\n              today’s global culture.",
+            "published_at": "2021-05-05T06:52:13.702Z",
+            "created_at": "2021-05-05T06:52:12.312Z",
+            "updated_at": "2021-05-05T06:52:13.718Z"
+        },
+        {
+            "id": 6,
+            "field_name": "about_short_description",
+            "text": "TREMOLO means: TRans-European Music Organizations Linked Organically\n",
+            "published_at": "2021-05-05T06:52:28.890Z",
+            "created_at": "2021-05-05T06:52:27.571Z",
+            "updated_at": "2021-05-05T06:52:28.902Z"
+        }
+    ],
+    "abouts": [{
+        "id": 1,
+        "About": "\nThe TREMOLO project creates an **organic link** between 3 cultural NGOs active in the fields of **music and cultural heritage**, and will be centered around 3 world music festivals already established at local and regional level **in Italy** (Marranzano World Fest), **Hungary** (Csipero Youth Festival) and **Serbia** (Malom Fesztival), allowing them to actively **support the international mobility of young artists and cultural operators** from peripheral areas of Europe.\n\nTREMOLO wants to **bridge the gap** between the compelling creativity in the field of **living music** traditions and the international music scene. It will function as a liquid infrastructure that will help young artists and cultural operators to travel across Europe, to exchange good practices, share experiences and expand working opportunities, within the multicultural and stimulating context of an expanding network of world music festivals.\n\nWe believe in the power of music to unite people of different age, language and culture, creating a common ground where the preservation and appreciation of diversity becomes an added value for the emergence of a new European identity. \n\nOur project will develop, promote and implement innovative strategies for safeguarding intangible heritage at local level, while at the same time promoting intercultural dialogue and mutual understanding and integration between different cultures, where a stronger sense of our common European Cultural Heritage is created through the safeguarding of all the local diversities.\n\nThe TREMOLO project is co-funded by the Creative Europe Programme of the European Union.",
+        "published_at": "2021-05-03T13:10:54.695Z",
+        "created_at": "2021-05-03T13:00:46.390Z",
+        "updated_at": "2021-05-03T13:10:54.712Z"
+    }],
+    "partners": [{
+            "id": 1,
+            "partner_name": "EJE ",
+            "partner_description": "The Future of Europe Association was established on 29th September 1990 with the objective to organize a children’s meeting in Kecskemét in order to get children from Kecskemét acquainted with children from Europe. The guiding principle was simple: children would get invited from various countries of the continent and be hosted by families in Kecskemét. In the following year, foreign groups would invite their hosts for an exchange visit. \nOne of our main missions is to promote and spread Hungarian culture and provide publicity to Kecskemét by means of international children and youth exchanges and nourish the universal and Hungarian cultural heritage, and to collect and preserve cultural assets, to ensure a cultural location for the purpose of implementing the above\nOur programmes serve as the means to deepen knowledge about Hungarians living beyond the current borders of our country and foster cultural exchange relations. \nThrough our publications and events we intend to support the ideals and accomplish the aims set out upon the establishment of the Association, that is, to foster the future citizens of Europe, today’s children to become a tolerant generation free from all prejudices.\nBearing these objectives of high priority in mind, The Future of Europe International Children & Youth Festival is organized every second year, alternated with international cultural youth exchanges regularly.\n",
+            "facebookURL": "fb.com/csipero",
+            "instagramURL": null,
+            "websiteURL": "https://www.facebook.com/csipero",
+            "short_description": "The Future of Europe Association was established on 29th September 1990 with the objective to organize a children’s meeting in Kecskemét in order to get children from Kecskemét acquainted with children from Europe. ",
+            "published_at": "2021-05-03T13:29:34.547Z",
+            "created_at": "2021-05-03T13:29:32.303Z",
+            "updated_at": "2021-05-03T18:38:04.548Z",
+            "url": "https://i.ibb.co/6Hk6knS/EJE-logo-COLOR.png",
+            "partner_logo": {
+                "id": 7,
+                "name": "EJE_logo_COLOR.png",
+                "alternativeText": "",
+                "caption": "",
+                "width": 2400,
+                "height": 2786,
+                "formats": {
+                    "thumbnail": {
+                        "name": "thumbnail_EJE_logo_COLOR.png",
+                        "hash": "thumbnail_EJE_logo_COLOR_1d64c7ab9f",
+                        "ext": ".png",
+                        "mime": "image/png",
+                        "width": 134,
+                        "height": 156,
+                        "size": 16.47,
+                        "path": null,
+                        "url": "/uploads/thumbnail_EJE_logo_COLOR_1d64c7ab9f.png"
+                    },
+                    "large": {
+                        "name": "large_EJE_logo_COLOR.png",
+                        "hash": "large_EJE_logo_COLOR_1d64c7ab9f",
+                        "ext": ".png",
+                        "mime": "image/png",
+                        "width": 861,
+                        "height": 1000,
+                        "size": 243.38,
+                        "path": null,
+                        "url": "/uploads/large_EJE_logo_COLOR_1d64c7ab9f.png"
+                    },
+                    "medium": {
+                        "name": "medium_EJE_logo_COLOR.png",
+                        "hash": "medium_EJE_logo_COLOR_1d64c7ab9f",
+                        "ext": ".png",
+                        "mime": "image/png",
+                        "width": 646,
+                        "height": 750,
+                        "size": 164.35,
+                        "path": null,
+                        "url": "/uploads/medium_EJE_logo_COLOR_1d64c7ab9f.png"
+                    },
+                    "small": {
+                        "name": "small_EJE_logo_COLOR.png",
+                        "hash": "small_EJE_logo_COLOR_1d64c7ab9f",
+                        "ext": ".png",
+                        "mime": "image/png",
+                        "width": 431,
+                        "height": 500,
+                        "size": 92.21,
+                        "path": null,
+                        "url": "/uploads/small_EJE_logo_COLOR_1d64c7ab9f.png"
+                    }
+                },
+                "hash": "EJE_logo_COLOR_1d64c7ab9f",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 405.59,
+                "url": "/uploads/EJE_logo_COLOR_1d64c7ab9f.png",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "created_at": "2021-05-03T13:19:51.548Z",
+                "updated_at": "2021-05-03T13:19:51.558Z"
+            }
+        },
+        {
+            "id": 2,
+            "partner_name": "ASSOCIAZIONE MUSICAL",
+            "partner_description": "Founded in Catania in 1973, Associazione Musicale Etnea (AME) is a non profit music organization with a long standing and renowned tradition for high quality concert seasons and festivals.\nRegularly supported by the Italian Ministry of Culture and by the Sicilian Regional Government, AME has organized over 1500 concerts, in collaboration with important local, national and international institutions such as the University of Catania, Auditorium Parco della Musica di Roma, Goethe Institut, the Embassy of France, the Polish Institute of Culture, and more.\nAME’s mission includes the effort to promote and disseminate the appreciation and the practice of high quality classical, contemporary and world music to an ever wider audience, including young people and disadvantaged groups, hence the large range of activities that include music education and training, residences, concerts and workshops in schools, hospitals, jails, migrant and rural communities.\n",
+            "facebookURL": null,
+            "instagramURL": null,
+            "websiteURL": null,
+            "short_description": "Associazione Musicale Etnea (AME) is a non profit music organization with a long standing and renowned tradition for high quality concert seasons and festivals.",
+            "published_at": "2021-05-03T13:30:01.059Z",
+            "created_at": "2021-05-03T13:29:59.206Z",
+            "updated_at": "2021-05-03T17:27:28.881Z",
+            "url": "https://i.ibb.co/MpCVwDm/logo-AME-7-copia.png",
+            "partner_logo": {
+                "id": 8,
+                "name": "logoAME 7 copia.png",
+                "alternativeText": "",
+                "caption": "",
+                "width": 2421,
+                "height": 1156,
+                "formats": {
+                    "thumbnail": {
+                        "name": "thumbnail_logoAME 7 copia.png",
+                        "hash": "thumbnail_logo_AME_7_copia_3df105ed24",
+                        "ext": ".png",
+                        "mime": "image/png",
+                        "width": 245,
+                        "height": 117,
+                        "size": 15.05,
+                        "path": null,
+                        "url": "/uploads/thumbnail_logo_AME_7_copia_3df105ed24.png"
+                    },
+                    "large": {
+                        "name": "large_logoAME 7 copia.png",
+                        "hash": "large_logo_AME_7_copia_3df105ed24",
+                        "ext": ".png",
+                        "mime": "image/png",
+                        "width": 1000,
+                        "height": 477,
+                        "size": 87.45,
+                        "path": null,
+                        "url": "/uploads/large_logo_AME_7_copia_3df105ed24.png"
+                    },
+                    "medium": {
+                        "name": "medium_logoAME 7 copia.png",
+                        "hash": "medium_logo_AME_7_copia_3df105ed24",
+                        "ext": ".png",
+                        "mime": "image/png",
+                        "width": 750,
+                        "height": 358,
+                        "size": 60.66,
+                        "path": null,
+                        "url": "/uploads/medium_logo_AME_7_copia_3df105ed24.png"
+                    },
+                    "small": {
+                        "name": "small_logoAME 7 copia.png",
+                        "hash": "small_logo_AME_7_copia_3df105ed24",
+                        "ext": ".png",
+                        "mime": "image/png",
+                        "width": 500,
+                        "height": 239,
+                        "size": 36.69,
+                        "path": null,
+                        "url": "/uploads/small_logo_AME_7_copia_3df105ed24.png"
+                    }
+                },
+                "hash": "logo_AME_7_copia_3df105ed24",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 120.66,
+                "url": "/uploads/logo_AME_7_copia_3df105ed24.png",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "created_at": "2021-05-03T13:19:51.725Z",
+                "updated_at": "2021-05-03T13:19:51.737Z"
+            }
+        },
+        {
+            "id": 3,
+            "partner_name": "WEMSICAL SERBIA ",
+            "partner_description": "Wemsical Serbia is a collective that has cultural managers and various artists in it with the aim to influence the development of artistic life in the northern rural parts of Serbia (in the Autonomous Province of Vojvodina). Its members live in various cities which are mainly rural towns or villages. The network of partners, the community of the collective mainly works on the organization of Malom Festival in the village of Orom in Serbia, which includes the 3-day festival and community building through several art camps for the youth 1-2 weeks prior to the festival. The camps include film, photography, dance, land-art, literature. This project will provide an important to step out of the box and via this partnership to develop our scope of activity in order to develop our audience more on European level. WS was awarded the European Youth Culture Award in category of Arts and Media given by Respekt! Die Stiftung Foundation.\n",
+            "facebookURL": null,
+            "instagramURL": null,
+            "websiteURL": null,
+            "short_description": "Wemsical Serbia is a collective that has cultural managers and various artists in it with the aim to influence the development of artistic life in the northern rural parts of Serbia (",
+            "published_at": "2021-05-03T13:40:08.228Z",
+            "created_at": "2021-05-03T13:30:19.163Z",
+            "updated_at": "2021-05-03T17:27:59.916Z",
+            "url": "https://i.ibb.co/84XxcTM/wemsicalserbia01.png",
+            "partner_logo": {
+                "id": 9,
+                "name": "wemsicalserbia01.png",
+                "alternativeText": "",
+                "caption": "",
+                "width": 2775,
+                "height": 1057,
+                "formats": {
+                    "thumbnail": {
+                        "name": "thumbnail_wemsicalserbia01.png",
+                        "hash": "thumbnail_wemsicalserbia01_8f00e58173",
+                        "ext": ".png",
+                        "mime": "image/png",
+                        "width": 245,
+                        "height": 93,
+                        "size": 23.75,
+                        "path": null,
+                        "url": "/uploads/thumbnail_wemsicalserbia01_8f00e58173.png"
+                    },
+                    "large": {
+                        "name": "large_wemsicalserbia01.png",
+                        "hash": "large_wemsicalserbia01_8f00e58173",
+                        "ext": ".png",
+                        "mime": "image/png",
+                        "width": 1000,
+                        "height": 381,
+                        "size": 137.85,
+                        "path": null,
+                        "url": "/uploads/large_wemsicalserbia01_8f00e58173.png"
+                    },
+                    "medium": {
+                        "name": "medium_wemsicalserbia01.png",
+                        "hash": "medium_wemsicalserbia01_8f00e58173",
+                        "ext": ".png",
+                        "mime": "image/png",
+                        "width": 750,
+                        "height": 286,
+                        "size": 93.3,
+                        "path": null,
+                        "url": "/uploads/medium_wemsicalserbia01_8f00e58173.png"
+                    },
+                    "small": {
+                        "name": "small_wemsicalserbia01.png",
+                        "hash": "small_wemsicalserbia01_8f00e58173",
+                        "ext": ".png",
+                        "mime": "image/png",
+                        "width": 500,
+                        "height": 190,
+                        "size": 55.23,
+                        "path": null,
+                        "url": "/uploads/small_wemsicalserbia01_8f00e58173.png"
+                    }
+                },
+                "hash": "wemsicalserbia01_8f00e58173",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 353.18,
+                "url": "/uploads/wemsicalserbia01_8f00e58173.png",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "created_at": "2021-05-03T13:19:51.868Z",
+                "updated_at": "2021-05-03T13:19:51.887Z"
+            }
+        }
+    ],
+    "activities": [{
+            "id": 1,
+            "Title": "Mentoring young world music talents",
+            "Short_description": "...and providing opportunities for them to perform in the partner festivals.",
+            "Description": "...and providing opportunities for them to perform in the partner festivals. Each partner will select a young and promising band that will be mentored by experienced musicians in the staff of the partner organizations, in order to prepare them for international touring and border-crossing cooperation with the other bands selected for the project during the festivals of the partner associations in summer 2021.\n",
+            "published_at": "2021-05-03T14:28:48.789Z",
+            "created_at": "2021-05-03T14:28:46.742Z",
+            "updated_at": "2021-05-03T14:28:48.806Z"
+        },
+        {
+            "id": 2,
+            "Title": "Creating a joint performance",
+            "Short_description": "The mentee bands selected by the 3 partners will co-create a joint musical piece with the help and supervision of experienced musicians acting as mentors, as they compile a combined concert program that will be toured across Europe.\n",
+            "Description": "The mentee bands selected by the 3 partners will co-create  a joint musical piece with the help and supervision of experienced musicians acting as mentors, as they compile a combined concert program that will be toured across Europe. This international cooperation allows for the composition of new pieces and concert programs, which can be performed to audiences at the summer festivals of each partner in 2021. Rehearsals and concerts will be filmed for dissemination purposes.\n",
+            "published_at": "2021-05-03T14:29:15.900Z",
+            "created_at": "2021-05-03T14:29:14.035Z",
+            "updated_at": "2021-05-03T14:29:15.918Z"
+        },
+        {
+            "id": 3,
+            "Title": "World Music Festivals",
+            "Short_description": "The established world music festivals curated by the 3 project partners will be the center of the project, creating the ideal multicultural context for the concerts",
+            "Description": "The established world music festivals curated by the 3 project partners will be the center of the project, creating the ideal multicultural context for the concerts and the creative residences of the selected young bands: \n- June 2021 Catania (IT): Marranzano World Fest\n- July 2021 Kecskemét (HU): Csipero Youth Festival – World Music Days\n- August 2021 Orom (RS): Windmill Festival",
+            "published_at": "2021-05-03T14:29:54.838Z",
+            "created_at": "2021-05-03T14:29:52.936Z",
+            "updated_at": "2021-05-03T14:29:54.851Z"
+        },
+        {
+            "id": 4,
+            "Title": "Musical workshops",
+            "Short_description": "..will take place during the festivals, to share the project objectives and practices with a larger audience, including marginal and under-represented groups so that their active involvement in the programs can be ensured.",
+            "Description": "... will take place during the festivals, to share the project objectives and practices with a larger audience, including marginal and under-represented groups so that their active involvement in the programs can be ensured.\n",
+            "published_at": "2021-05-03T14:30:28.526Z",
+            "created_at": "2021-05-03T14:30:25.624Z",
+            "updated_at": "2021-05-03T14:30:28.539Z"
+        },
+        {
+            "id": 5,
+            "Title": "Professional conference",
+            "Short_description": "...to evaluate and consolidate the experience gained throughout the project.\n",
+            "Description": "...to evaluate and consolidate the experience gained throughout the project.\n",
+            "published_at": "2021-05-03T14:31:11.745Z",
+            "created_at": "2021-05-03T14:30:59.337Z",
+            "updated_at": "2021-05-03T14:31:11.764Z"
+        }
+    ],
+    "contacts": [
+
+        {
+            "id": 1,
+            "contact_name": "Tremolo Project",
+            "email": "getintouch@tremoloproject.eu",
+            "published_at": "2021-05-03T13:10:22.519Z",
+            "created_at": "2021-05-03T13:09:14.816Z",
+            "updated_at": "2021-05-03T13:10:22.533Z"
+        },
+        {
+            "id": 2,
+            "contact_name": "Európa Jövője Egyesület",
+            "email": "csipero@csipero.eu",
+            "published_at": "2021-05-03T13:10:43.790Z",
+            "created_at": "2021-05-03T13:10:41.054Z",
+            "updated_at": "2021-05-03T13:10:43.811Z"
+        },
+        {
+            "id": 3,
+            "contact_name": "Associazione Musicale Etnea",
+            "email": "info@ame.ct.it",
+            "published_at": "2021-05-03T15:41:20.778Z",
+            "created_at": "2021-05-03T15:41:18.567Z",
+            "updated_at": "2021-05-03T15:41:20.793Z"
+        },
+        {
+            "id": 4,
+            "contact_name": "Wemsical Serbia",
+            "email": "wemsical.serbia@gmail.com",
+            "published_at": "2021-05-03T15:41:37.881Z",
+            "created_at": "2021-05-03T15:41:36.085Z",
+            "updated_at": "2021-05-03T15:41:37.896Z"
+        }
+
+    ],
+    "artists": [{
+        "id": 1,
+        "Name": "Lorem ipsum",
+        "Short_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquet eget sit amet tellus. Sollicitudin tempor id eu nisl nunc. Arcu cursus euismod quis viverra nibh cras. ",
+        "Description": "Nulla porttitor massa id neque aliquam vestibulum morbi. Aliquam sem et tortor consequat. Sagittis orci a scelerisque purus. Sed odio morbi quis commodo. Rhoncus est pellentesque elit ullamcorper. Libero nunc consequat interdum varius sit amet mattis. Sem viverra aliquet eget sit. Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi tristique. \n\nVenenatis urna cursus eget nunc. Euismod nisi porta lorem mollis aliquam ut. In nisl nisi scelerisque eu ultrices vitae. Integer quis auctor elit sed vulputate mi sit amet. At varius vel pharetra vel turpis nunc. Velit aliquet sagittis id consectetur purus ut faucibus. Eget nunc lobortis mattis aliquam faucibus.\n\nTincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin libero. Tellus mauris a diam maecenas sed enim ut. Dignissim sodales ut eu sem integer vitae. Porttitor eget dolor morbi non. Sed sed risus pretium quam vulputate. Id venenatis a condimentum vitae. Arcu risus quis varius quam. Dolor magna eget est lorem ipsum dolor. Enim neque volutpat ac tincidunt vitae semper. Aenean et tortor at risus viverra adipiscing. Sem fringilla ut morbi tincidunt augue interdum. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper sit.\n\nLorem ipsum dolor sit amet consectetur adipiscing elit duis. Nunc mi ipsum faucibus vitae aliquet nec. Duis ut diam quam nulla porttitor massa. Massa id neque aliquam vestibulum. Dui vivamus arcu felis bibendum ut tristique. Ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at.",
+        "Email": null,
+        "FacebookURL": "https://www.facebook.com/",
+        "InstagramURL": "https://www.instagram.com/",
+        "SpotifyURL": "https://www.spotify.com/",
+        "YoutubeURL": "https://www.youtube.com/",
+        "WebsiteURL": "https://www.tremoloproject.eu/",
+        "Country": "Bosnia & Hercegovina",
+        "ITunesURL": "https://www.itunes.com/",
+        "published_at": "2021-05-04T13:53:00.066Z",
+        "created_at": "2021-05-04T13:52:58.165Z",
+        "updated_at": "2021-05-04T20:09:21.195Z",
+        "Pictures": [{
+                "id": 14,
+                "name": "motorhead.jpg",
+                "alternativeText": "",
+                "caption": "",
+                "width": 768,
+                "height": 432,
+                "formats": {
+                    "thumbnail": {
+                        "name": "thumbnail_motorhead.jpg",
+                        "hash": "thumbnail_motorhead_64fb196e2f",
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "width": 245,
+                        "height": 138,
+                        "size": 9.44,
+                        "path": null,
+                        "url": "/uploads/thumbnail_motorhead_64fb196e2f.jpg"
+                    },
+                    "medium": {
+                        "name": "medium_motorhead.jpg",
+                        "hash": "medium_motorhead_64fb196e2f",
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "width": 750,
+                        "height": 422,
+                        "size": 51.4,
+                        "path": null,
+                        "url": "/uploads/medium_motorhead_64fb196e2f.jpg"
+                    },
+                    "small": {
+                        "name": "small_motorhead.jpg",
+                        "hash": "small_motorhead_64fb196e2f",
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "width": 500,
+                        "height": 281,
+                        "size": 28.53,
+                        "path": null,
+                        "url": "/uploads/small_motorhead_64fb196e2f.jpg"
+                    }
+                },
+                "hash": "motorhead_64fb196e2f",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 49.1,
+                "url": "/uploads/motorhead_64fb196e2f.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "created_at": "2021-05-04T13:52:52.119Z",
+                "updated_at": "2021-05-04T13:52:52.152Z"
+            },
+            {
+                "id": 15,
+                "name": "All-Them-Witches.jpg",
+                "alternativeText": "",
+                "caption": "",
+                "width": 1500,
+                "height": 750,
+                "formats": {
+                    "thumbnail": {
+                        "name": "thumbnail_All-Them-Witches.jpg",
+                        "hash": "thumbnail_All_Them_Witches_ce1461b0cb",
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "width": 245,
+                        "height": 123,
+                        "size": 9.09,
+                        "path": null,
+                        "url": "/uploads/thumbnail_All_Them_Witches_ce1461b0cb.jpg"
+                    },
+                    "large": {
+                        "name": "large_All-Them-Witches.jpg",
+                        "hash": "large_All_Them_Witches_ce1461b0cb",
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "width": 1000,
+                        "height": 500,
+                        "size": 80,
+                        "path": null,
+                        "url": "/uploads/large_All_Them_Witches_ce1461b0cb.jpg"
+                    },
+                    "medium": {
+                        "name": "medium_All-Them-Witches.jpg",
+                        "hash": "medium_All_Them_Witches_ce1461b0cb",
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "width": 750,
+                        "height": 375,
+                        "size": 51.34,
+                        "path": null,
+                        "url": "/uploads/medium_All_Them_Witches_ce1461b0cb.jpg"
+                    },
+                    "small": {
+                        "name": "small_All-Them-Witches.jpg",
+                        "hash": "small_All_Them_Witches_ce1461b0cb",
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "width": 500,
+                        "height": 250,
+                        "size": 28.57,
+                        "path": null,
+                        "url": "/uploads/small_All_Them_Witches_ce1461b0cb.jpg"
+                    }
+                },
+                "hash": "All_Them_Witches_ce1461b0cb",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 142.84,
+                "url": "/uploads/All_Them_Witches_ce1461b0cb.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "created_at": "2021-05-04T13:52:52.271Z",
+                "updated_at": "2021-05-04T13:52:52.287Z"
+            },
+            {
+                "id": 16,
+                "name": "2019_tool_press_2000x1270.jpg",
+                "alternativeText": "",
+                "caption": "",
+                "width": 2000,
+                "height": 1270,
+                "formats": {
+                    "thumbnail": {
+                        "name": "thumbnail_2019_tool_press_2000x1270.jpg",
+                        "hash": "thumbnail_2019_tool_press_2000x1270_88b3e89697",
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "width": 245,
+                        "height": 156,
+                        "size": 6.89,
+                        "path": null,
+                        "url": "/uploads/thumbnail_2019_tool_press_2000x1270_88b3e89697.jpg"
+                    },
+                    "large": {
+                        "name": "large_2019_tool_press_2000x1270.jpg",
+                        "hash": "large_2019_tool_press_2000x1270_88b3e89697",
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "width": 1000,
+                        "height": 635,
+                        "size": 78.98,
+                        "path": null,
+                        "url": "/uploads/large_2019_tool_press_2000x1270_88b3e89697.jpg"
+                    },
+                    "medium": {
+                        "name": "medium_2019_tool_press_2000x1270.jpg",
+                        "hash": "medium_2019_tool_press_2000x1270_88b3e89697",
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "width": 750,
+                        "height": 476,
+                        "size": 45.61,
+                        "path": null,
+                        "url": "/uploads/medium_2019_tool_press_2000x1270_88b3e89697.jpg"
+                    },
+                    "small": {
+                        "name": "small_2019_tool_press_2000x1270.jpg",
+                        "hash": "small_2019_tool_press_2000x1270_88b3e89697",
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "width": 500,
+                        "height": 318,
+                        "size": 22.3,
+                        "path": null,
+                        "url": "/uploads/small_2019_tool_press_2000x1270_88b3e89697.jpg"
+                    }
+                },
+                "hash": "2019_tool_press_2000x1270_88b3e89697",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 316.17,
+                "url": "/uploads/2019_tool_press_2000x1270_88b3e89697.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "created_at": "2021-05-04T13:52:52.403Z",
+                "updated_at": "2021-05-04T13:52:52.447Z"
+            }
+        ]
+    }]
+}
