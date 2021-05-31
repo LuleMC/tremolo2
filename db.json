@@ -309,9 +309,7 @@
             "updated_at": "2021-05-03T14:31:11.764Z"
         }
     ],
-    "contacts": [
-
-        {
+    "contacts": [{
             "id": 1,
             "contact_name": "Tremolo Project",
             "email": "getintouch@tremoloproject.eu",
@@ -343,7 +341,6 @@
             "created_at": "2021-05-03T15:41:36.085Z",
             "updated_at": "2021-05-03T15:41:37.896Z"
         }
-
     ],
     "artists": [{
         "id": 1,
@@ -543,5 +540,11 @@
                 "updated_at": "2021-05-04T13:52:52.447Z"
             }
         ]
+    }],
+    "blogs": [{
+        "Title": "Próába",
+        "Post": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cursus euismod quis viverra nibh cras pulvinar. At augue eget arcu dictum varius duis at consectetur lorem. Libero nunc consequat interdum varius sit amet mattis. Vitae proin sagittis nisl rhoncus mattis rhoncus urna neque. Risus sed vulputate odio ut enim blandit volutpat maecenas volutpat. Enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Eget mauris pharetra et ultrices neque ornare aenean euismod elementum. Nisi scelerisque eu ultrices vitae. Quis blandit turpis cursus in hac habitasse platea. Et pharetra pharetra massa massa ultricies. Natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Cras tincidunt lobortis feugiat vivamus at augue eget. Ut porttitor leo a diam sollicitudin. Amet nisl suscipit adipiscing bibendum est ultricies integer quis. Mauris cursus mattis molestie a iaculis at. Laoreet non curabitur gravida arcu ac.",
+        "Author": "Wemsical",
+        "Header": "https://i.ibb.co/HnRdqvr/fukayamamo-Cp1-LK6z-NEZ8-unsplash.jpg"
     }]
 }
