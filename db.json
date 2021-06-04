@@ -1,5 +1,6 @@
 {
-    "homepages": [{
+    "homepages": [
+        {
             "id": 4,
             "field_name": "about_long_description",
             "text": "Our project will create an organic link between our cultural NGOs that are already active in the fields of music at local and regional level, in Hungary, Serbia and Italy, allowing us to expand the range of activities to a wider Trans-European level, and to actively support the international mobility of artists and cultural operators from our regions. We all share common values and a positive effort towards the preservation and enhancement of traditional music and local cultural heritage, not expressed through the replication and “musification” of the masterpieces of the folk culture of the past, but through the contemporary use of traditional instruments, techniques and repertories, that are still useful and meaningful in today’s global culture. Another common foundation is that we believe in the power of music to unite people of different age, language and culture, creating a common ground where the preservation and appreciation of diversity becomes an added value for the development of a new European identity. The TREMOLO project wants to bridge the gap between the compelling creativity in the field of living traditional music and the international music scene. It will function as an innovative liquid infrastructure that will help artists and cultural operators to travel at a European level, to exchange and share experience and opportunities, and to learn, develop and put into practice innovative strategies for transnational mobility through a developing network. We consider the creation of an Organic Link among the project partners one of the first and most important outcomes of the project. The concept of TREMOLO project is based on an extendable network of cultural and creative organizations and operators that share values and aims, and cooperate to boost the transnational mobility of music and musicians with a common approach that links traditional intangible heritage with contemporary mainstream of global culture.\n",
@@ -24,14 +25,17 @@
             "updated_at": "2021-05-05T06:52:28.902Z"
         }
     ],
-    "abouts": [{
-        "id": 1,
-        "About": "\nThe TREMOLO project creates an **organic link** between 3 cultural NGOs active in the fields of **music and cultural heritage**, and will be centered around 3 world music festivals already established at local and regional level **in Italy** (Marranzano World Fest), **Hungary** (Csipero Youth Festival) and **Serbia** (Malom Fesztival), allowing them to actively **support the international mobility of young artists and cultural operators** from peripheral areas of Europe.\n\nTREMOLO wants to **bridge the gap** between the compelling creativity in the field of **living music** traditions and the international music scene. It will function as a liquid infrastructure that will help young artists and cultural operators to travel across Europe, to exchange good practices, share experiences and expand working opportunities, within the multicultural and stimulating context of an expanding network of world music festivals.\n\nWe believe in the power of music to unite people of different age, language and culture, creating a common ground where the preservation and appreciation of diversity becomes an added value for the emergence of a new European identity. \n\nOur project will develop, promote and implement innovative strategies for safeguarding intangible heritage at local level, while at the same time promoting intercultural dialogue and mutual understanding and integration between different cultures, where a stronger sense of our common European Cultural Heritage is created through the safeguarding of all the local diversities.\n\nThe TREMOLO project is co-funded by the Creative Europe Programme of the European Union.",
-        "published_at": "2021-05-03T13:10:54.695Z",
-        "created_at": "2021-05-03T13:00:46.390Z",
-        "updated_at": "2021-05-03T13:10:54.712Z"
-    }],
-    "partners": [{
+    "abouts": [
+        {
+            "id": 1,
+            "About": "\nThe TREMOLO project creates an **organic link** between 3 cultural NGOs active in the fields of **music and cultural heritage**, and will be centered around 3 world music festivals already established at local and regional level **in Italy** (Marranzano World Fest), **Hungary** (Csipero Youth Festival) and **Serbia** (Malom Fesztival), allowing them to actively **support the international mobility of young artists and cultural operators** from peripheral areas of Europe.\n\nTREMOLO wants to **bridge the gap** between the compelling creativity in the field of **living music** traditions and the international music scene. It will function as a liquid infrastructure that will help young artists and cultural operators to travel across Europe, to exchange good practices, share experiences and expand working opportunities, within the multicultural and stimulating context of an expanding network of world music festivals.\n\nWe believe in the power of music to unite people of different age, language and culture, creating a common ground where the preservation and appreciation of diversity becomes an added value for the emergence of a new European identity. \n\nOur project will develop, promote and implement innovative strategies for safeguarding intangible heritage at local level, while at the same time promoting intercultural dialogue and mutual understanding and integration between different cultures, where a stronger sense of our common European Cultural Heritage is created through the safeguarding of all the local diversities.\n\nThe TREMOLO project is co-funded by the Creative Europe Programme of the European Union.",
+            "published_at": "2021-05-03T13:10:54.695Z",
+            "created_at": "2021-05-03T13:00:46.390Z",
+            "updated_at": "2021-05-03T13:10:54.712Z"
+        }
+    ],
+    "partners": [
+        {
             "id": 1,
             "partner_name": "EJE ",
             "partner_description": "The Future of Europe Association was established on 29th September 1990 with the objective to organize a children’s meeting in Kecskemét in order to get children from Kecskemét acquainted with children from Europe. The guiding principle was simple: children would get invited from various countries of the continent and be hosted by families in Kecskemét. In the following year, foreign groups would invite their hosts for an exchange visit. \nOne of our main missions is to promote and spread Hungarian culture and provide publicity to Kecskemét by means of international children and youth exchanges and nourish the universal and Hungarian cultural heritage, and to collect and preserve cultural assets, to ensure a cultural location for the purpose of implementing the above\nOur programmes serve as the means to deepen knowledge about Hungarians living beyond the current borders of our country and foster cultural exchange relations. \nThrough our publications and events we intend to support the ideals and accomplish the aims set out upon the establishment of the Association, that is, to foster the future citizens of Europe, today’s children to become a tolerant generation free from all prejudices.\nBearing these objectives of high priority in mind, The Future of Europe International Children & Youth Festival is organized every second year, alternated with international cultural youth exchanges regularly.\n",
@@ -263,7 +267,8 @@
             }
         }
     ],
-    "activities": [{
+    "activities": [
+        {
             "id": 1,
             "Title": "Mentoring young world music talents",
             "Short_description": "...and providing opportunities for them to perform in the partner festivals.",
@@ -309,7 +314,8 @@
             "updated_at": "2021-05-03T14:31:11.764Z"
         }
     ],
-    "contacts": [{
+    "contacts": [
+        {
             "id": 1,
             "contact_name": "Tremolo Project",
             "email": "getintouch@tremoloproject.eu",
@@ -342,206 +348,210 @@
             "updated_at": "2021-05-03T15:41:37.896Z"
         }
     ],
-    "artists": [{
-        "id": 1,
-        "Name": "Lorem ipsum",
-        "Short_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquet eget sit amet tellus. Sollicitudin tempor id eu nisl nunc. Arcu cursus euismod quis viverra nibh cras. ",
-        "Description": "Nulla porttitor massa id neque aliquam vestibulum morbi. Aliquam sem et tortor consequat. Sagittis orci a scelerisque purus. Sed odio morbi quis commodo. Rhoncus est pellentesque elit ullamcorper. Libero nunc consequat interdum varius sit amet mattis. Sem viverra aliquet eget sit. Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi tristique. \n\nVenenatis urna cursus eget nunc. Euismod nisi porta lorem mollis aliquam ut. In nisl nisi scelerisque eu ultrices vitae. Integer quis auctor elit sed vulputate mi sit amet. At varius vel pharetra vel turpis nunc. Velit aliquet sagittis id consectetur purus ut faucibus. Eget nunc lobortis mattis aliquam faucibus.\n\nTincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin libero. Tellus mauris a diam maecenas sed enim ut. Dignissim sodales ut eu sem integer vitae. Porttitor eget dolor morbi non. Sed sed risus pretium quam vulputate. Id venenatis a condimentum vitae. Arcu risus quis varius quam. Dolor magna eget est lorem ipsum dolor. Enim neque volutpat ac tincidunt vitae semper. Aenean et tortor at risus viverra adipiscing. Sem fringilla ut morbi tincidunt augue interdum. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper sit.\n\nLorem ipsum dolor sit amet consectetur adipiscing elit duis. Nunc mi ipsum faucibus vitae aliquet nec. Duis ut diam quam nulla porttitor massa. Massa id neque aliquam vestibulum. Dui vivamus arcu felis bibendum ut tristique. Ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at.",
-        "Email": null,
-        "FacebookURL": "https://www.facebook.com/",
-        "InstagramURL": "https://www.instagram.com/",
-        "SpotifyURL": "https://www.spotify.com/",
-        "YoutubeURL": "https://www.youtube.com/",
-        "WebsiteURL": "https://www.tremoloproject.eu/",
-        "Country": "Bosnia & Hercegovina",
-        "ITunesURL": "https://www.itunes.com/",
-        "published_at": "2021-05-04T13:53:00.066Z",
-        "created_at": "2021-05-04T13:52:58.165Z",
-        "updated_at": "2021-05-04T20:09:21.195Z",
-        "Pictures": [{
-                "id": 14,
-                "name": "motorhead.jpg",
-                "alternativeText": "",
-                "caption": "",
-                "width": 768,
-                "height": 432,
-                "formats": {
-                    "thumbnail": {
-                        "name": "thumbnail_motorhead.jpg",
-                        "hash": "thumbnail_motorhead_64fb196e2f",
-                        "ext": ".jpg",
-                        "mime": "image/jpeg",
-                        "width": 245,
-                        "height": 138,
-                        "size": 9.44,
-                        "path": null,
-                        "url": "/uploads/thumbnail_motorhead_64fb196e2f.jpg"
+    "artists": [
+        {
+            "id": 1,
+            "Name": "Lorem ipsum",
+            "Short_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquet eget sit amet tellus. Sollicitudin tempor id eu nisl nunc. Arcu cursus euismod quis viverra nibh cras. ",
+            "Description": "Nulla porttitor massa id neque aliquam vestibulum morbi. Aliquam sem et tortor consequat. Sagittis orci a scelerisque purus. Sed odio morbi quis commodo. Rhoncus est pellentesque elit ullamcorper. Libero nunc consequat interdum varius sit amet mattis. Sem viverra aliquet eget sit. Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi tristique. \n\nVenenatis urna cursus eget nunc. Euismod nisi porta lorem mollis aliquam ut. In nisl nisi scelerisque eu ultrices vitae. Integer quis auctor elit sed vulputate mi sit amet. At varius vel pharetra vel turpis nunc. Velit aliquet sagittis id consectetur purus ut faucibus. Eget nunc lobortis mattis aliquam faucibus.\n\nTincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin libero. Tellus mauris a diam maecenas sed enim ut. Dignissim sodales ut eu sem integer vitae. Porttitor eget dolor morbi non. Sed sed risus pretium quam vulputate. Id venenatis a condimentum vitae. Arcu risus quis varius quam. Dolor magna eget est lorem ipsum dolor. Enim neque volutpat ac tincidunt vitae semper. Aenean et tortor at risus viverra adipiscing. Sem fringilla ut morbi tincidunt augue interdum. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper sit.\n\nLorem ipsum dolor sit amet consectetur adipiscing elit duis. Nunc mi ipsum faucibus vitae aliquet nec. Duis ut diam quam nulla porttitor massa. Massa id neque aliquam vestibulum. Dui vivamus arcu felis bibendum ut tristique. Ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at.",
+            "Email": null,
+            "FacebookURL": "https://www.facebook.com/",
+            "InstagramURL": "https://www.instagram.com/",
+            "SpotifyURL": "https://www.spotify.com/",
+            "YoutubeURL": "https://www.youtube.com/",
+            "WebsiteURL": "https://www.tremoloproject.eu/",
+            "Country": "Bosnia & Hercegovina",
+            "ITunesURL": "https://www.itunes.com/",
+            "published_at": "2021-05-04T13:53:00.066Z",
+            "created_at": "2021-05-04T13:52:58.165Z",
+            "updated_at": "2021-05-04T20:09:21.195Z",
+            "Pictures": [
+                {
+                    "id": 14,
+                    "name": "motorhead.jpg",
+                    "alternativeText": "",
+                    "caption": "",
+                    "width": 768,
+                    "height": 432,
+                    "formats": {
+                        "thumbnail": {
+                            "name": "thumbnail_motorhead.jpg",
+                            "hash": "thumbnail_motorhead_64fb196e2f",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "width": 245,
+                            "height": 138,
+                            "size": 9.44,
+                            "path": null,
+                            "url": "/uploads/thumbnail_motorhead_64fb196e2f.jpg"
+                        },
+                        "medium": {
+                            "name": "medium_motorhead.jpg",
+                            "hash": "medium_motorhead_64fb196e2f",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "width": 750,
+                            "height": 422,
+                            "size": 51.4,
+                            "path": null,
+                            "url": "/uploads/medium_motorhead_64fb196e2f.jpg"
+                        },
+                        "small": {
+                            "name": "small_motorhead.jpg",
+                            "hash": "small_motorhead_64fb196e2f",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "width": 500,
+                            "height": 281,
+                            "size": 28.53,
+                            "path": null,
+                            "url": "/uploads/small_motorhead_64fb196e2f.jpg"
+                        }
                     },
-                    "medium": {
-                        "name": "medium_motorhead.jpg",
-                        "hash": "medium_motorhead_64fb196e2f",
-                        "ext": ".jpg",
-                        "mime": "image/jpeg",
-                        "width": 750,
-                        "height": 422,
-                        "size": 51.4,
-                        "path": null,
-                        "url": "/uploads/medium_motorhead_64fb196e2f.jpg"
-                    },
-                    "small": {
-                        "name": "small_motorhead.jpg",
-                        "hash": "small_motorhead_64fb196e2f",
-                        "ext": ".jpg",
-                        "mime": "image/jpeg",
-                        "width": 500,
-                        "height": 281,
-                        "size": 28.53,
-                        "path": null,
-                        "url": "/uploads/small_motorhead_64fb196e2f.jpg"
-                    }
+                    "hash": "motorhead_64fb196e2f",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "size": 49.1,
+                    "url": "/uploads/motorhead_64fb196e2f.jpg",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "created_at": "2021-05-04T13:52:52.119Z",
+                    "updated_at": "2021-05-04T13:52:52.152Z"
                 },
-                "hash": "motorhead_64fb196e2f",
-                "ext": ".jpg",
-                "mime": "image/jpeg",
-                "size": 49.1,
-                "url": "/uploads/motorhead_64fb196e2f.jpg",
-                "previewUrl": null,
-                "provider": "local",
-                "provider_metadata": null,
-                "created_at": "2021-05-04T13:52:52.119Z",
-                "updated_at": "2021-05-04T13:52:52.152Z"
-            },
-            {
-                "id": 15,
-                "name": "All-Them-Witches.jpg",
-                "alternativeText": "",
-                "caption": "",
-                "width": 1500,
-                "height": 750,
-                "formats": {
-                    "thumbnail": {
-                        "name": "thumbnail_All-Them-Witches.jpg",
-                        "hash": "thumbnail_All_Them_Witches_ce1461b0cb",
-                        "ext": ".jpg",
-                        "mime": "image/jpeg",
-                        "width": 245,
-                        "height": 123,
-                        "size": 9.09,
-                        "path": null,
-                        "url": "/uploads/thumbnail_All_Them_Witches_ce1461b0cb.jpg"
+                {
+                    "id": 15,
+                    "name": "All-Them-Witches.jpg",
+                    "alternativeText": "",
+                    "caption": "",
+                    "width": 1500,
+                    "height": 750,
+                    "formats": {
+                        "thumbnail": {
+                            "name": "thumbnail_All-Them-Witches.jpg",
+                            "hash": "thumbnail_All_Them_Witches_ce1461b0cb",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "width": 245,
+                            "height": 123,
+                            "size": 9.09,
+                            "path": null,
+                            "url": "/uploads/thumbnail_All_Them_Witches_ce1461b0cb.jpg"
+                        },
+                        "large": {
+                            "name": "large_All-Them-Witches.jpg",
+                            "hash": "large_All_Them_Witches_ce1461b0cb",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "width": 1000,
+                            "height": 500,
+                            "size": 80,
+                            "path": null,
+                            "url": "/uploads/large_All_Them_Witches_ce1461b0cb.jpg"
+                        },
+                        "medium": {
+                            "name": "medium_All-Them-Witches.jpg",
+                            "hash": "medium_All_Them_Witches_ce1461b0cb",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "width": 750,
+                            "height": 375,
+                            "size": 51.34,
+                            "path": null,
+                            "url": "/uploads/medium_All_Them_Witches_ce1461b0cb.jpg"
+                        },
+                        "small": {
+                            "name": "small_All-Them-Witches.jpg",
+                            "hash": "small_All_Them_Witches_ce1461b0cb",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "width": 500,
+                            "height": 250,
+                            "size": 28.57,
+                            "path": null,
+                            "url": "/uploads/small_All_Them_Witches_ce1461b0cb.jpg"
+                        }
                     },
-                    "large": {
-                        "name": "large_All-Them-Witches.jpg",
-                        "hash": "large_All_Them_Witches_ce1461b0cb",
-                        "ext": ".jpg",
-                        "mime": "image/jpeg",
-                        "width": 1000,
-                        "height": 500,
-                        "size": 80,
-                        "path": null,
-                        "url": "/uploads/large_All_Them_Witches_ce1461b0cb.jpg"
-                    },
-                    "medium": {
-                        "name": "medium_All-Them-Witches.jpg",
-                        "hash": "medium_All_Them_Witches_ce1461b0cb",
-                        "ext": ".jpg",
-                        "mime": "image/jpeg",
-                        "width": 750,
-                        "height": 375,
-                        "size": 51.34,
-                        "path": null,
-                        "url": "/uploads/medium_All_Them_Witches_ce1461b0cb.jpg"
-                    },
-                    "small": {
-                        "name": "small_All-Them-Witches.jpg",
-                        "hash": "small_All_Them_Witches_ce1461b0cb",
-                        "ext": ".jpg",
-                        "mime": "image/jpeg",
-                        "width": 500,
-                        "height": 250,
-                        "size": 28.57,
-                        "path": null,
-                        "url": "/uploads/small_All_Them_Witches_ce1461b0cb.jpg"
-                    }
+                    "hash": "All_Them_Witches_ce1461b0cb",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "size": 142.84,
+                    "url": "/uploads/All_Them_Witches_ce1461b0cb.jpg",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "created_at": "2021-05-04T13:52:52.271Z",
+                    "updated_at": "2021-05-04T13:52:52.287Z"
                 },
-                "hash": "All_Them_Witches_ce1461b0cb",
-                "ext": ".jpg",
-                "mime": "image/jpeg",
-                "size": 142.84,
-                "url": "/uploads/All_Them_Witches_ce1461b0cb.jpg",
-                "previewUrl": null,
-                "provider": "local",
-                "provider_metadata": null,
-                "created_at": "2021-05-04T13:52:52.271Z",
-                "updated_at": "2021-05-04T13:52:52.287Z"
-            },
-            {
-                "id": 16,
-                "name": "2019_tool_press_2000x1270.jpg",
-                "alternativeText": "",
-                "caption": "",
-                "width": 2000,
-                "height": 1270,
-                "formats": {
-                    "thumbnail": {
-                        "name": "thumbnail_2019_tool_press_2000x1270.jpg",
-                        "hash": "thumbnail_2019_tool_press_2000x1270_88b3e89697",
-                        "ext": ".jpg",
-                        "mime": "image/jpeg",
-                        "width": 245,
-                        "height": 156,
-                        "size": 6.89,
-                        "path": null,
-                        "url": "/uploads/thumbnail_2019_tool_press_2000x1270_88b3e89697.jpg"
+                {
+                    "id": 16,
+                    "name": "2019_tool_press_2000x1270.jpg",
+                    "alternativeText": "",
+                    "caption": "",
+                    "width": 2000,
+                    "height": 1270,
+                    "formats": {
+                        "thumbnail": {
+                            "name": "thumbnail_2019_tool_press_2000x1270.jpg",
+                            "hash": "thumbnail_2019_tool_press_2000x1270_88b3e89697",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "width": 245,
+                            "height": 156,
+                            "size": 6.89,
+                            "path": null,
+                            "url": "/uploads/thumbnail_2019_tool_press_2000x1270_88b3e89697.jpg"
+                        },
+                        "large": {
+                            "name": "large_2019_tool_press_2000x1270.jpg",
+                            "hash": "large_2019_tool_press_2000x1270_88b3e89697",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "width": 1000,
+                            "height": 635,
+                            "size": 78.98,
+                            "path": null,
+                            "url": "/uploads/large_2019_tool_press_2000x1270_88b3e89697.jpg"
+                        },
+                        "medium": {
+                            "name": "medium_2019_tool_press_2000x1270.jpg",
+                            "hash": "medium_2019_tool_press_2000x1270_88b3e89697",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "width": 750,
+                            "height": 476,
+                            "size": 45.61,
+                            "path": null,
+                            "url": "/uploads/medium_2019_tool_press_2000x1270_88b3e89697.jpg"
+                        },
+                        "small": {
+                            "name": "small_2019_tool_press_2000x1270.jpg",
+                            "hash": "small_2019_tool_press_2000x1270_88b3e89697",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "width": 500,
+                            "height": 318,
+                            "size": 22.3,
+                            "path": null,
+                            "url": "/uploads/small_2019_tool_press_2000x1270_88b3e89697.jpg"
+                        }
                     },
-                    "large": {
-                        "name": "large_2019_tool_press_2000x1270.jpg",
-                        "hash": "large_2019_tool_press_2000x1270_88b3e89697",
-                        "ext": ".jpg",
-                        "mime": "image/jpeg",
-                        "width": 1000,
-                        "height": 635,
-                        "size": 78.98,
-                        "path": null,
-                        "url": "/uploads/large_2019_tool_press_2000x1270_88b3e89697.jpg"
-                    },
-                    "medium": {
-                        "name": "medium_2019_tool_press_2000x1270.jpg",
-                        "hash": "medium_2019_tool_press_2000x1270_88b3e89697",
-                        "ext": ".jpg",
-                        "mime": "image/jpeg",
-                        "width": 750,
-                        "height": 476,
-                        "size": 45.61,
-                        "path": null,
-                        "url": "/uploads/medium_2019_tool_press_2000x1270_88b3e89697.jpg"
-                    },
-                    "small": {
-                        "name": "small_2019_tool_press_2000x1270.jpg",
-                        "hash": "small_2019_tool_press_2000x1270_88b3e89697",
-                        "ext": ".jpg",
-                        "mime": "image/jpeg",
-                        "width": 500,
-                        "height": 318,
-                        "size": 22.3,
-                        "path": null,
-                        "url": "/uploads/small_2019_tool_press_2000x1270_88b3e89697.jpg"
-                    }
-                },
-                "hash": "2019_tool_press_2000x1270_88b3e89697",
-                "ext": ".jpg",
-                "mime": "image/jpeg",
-                "size": 316.17,
-                "url": "/uploads/2019_tool_press_2000x1270_88b3e89697.jpg",
-                "previewUrl": null,
-                "provider": "local",
-                "provider_metadata": null,
-                "created_at": "2021-05-04T13:52:52.403Z",
-                "updated_at": "2021-05-04T13:52:52.447Z"
-            }
-        ]
-    }],
-    "blogs": [{
+                    "hash": "2019_tool_press_2000x1270_88b3e89697",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "size": 316.17,
+                    "url": "/uploads/2019_tool_press_2000x1270_88b3e89697.jpg",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "created_at": "2021-05-04T13:52:52.403Z",
+                    "updated_at": "2021-05-04T13:52:52.447Z"
+                }
+            ]
+        }
+    ],
+    "blogs": [
+        {
             "Title": "Hosszabb cím ",
             "Post": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cursus euismod quis viverra nibh cras pulvinar. At augue eget arcu dictum varius duis at consectetur lorem. Libero nunc consequat interdum varius sit amet mattis. Vitae proin sagittis nisl rhoncus mattis rhoncus urna neque. Risus sed vulputate odio ut enim blandit volutpat maecenas volutpat. Enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Eget mauris pharetra et ultrices neque ornare aenean euismod elementum. Nisi scelerisque eu ultrices vitae. Quis blandit turpis cursus in hac habitasse platea. Et pharetra pharetra massa massa ultricies. Natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Cras tincidunt lobortis feugiat vivamus at augue eget. Ut porttitor leo a diam sollicitudin. Amet nisl suscipit adipiscing bibendum est ultricies integer quis. Mauris cursus mattis molestie a iaculis at. Laoreet non curabitur gravida arcu ac. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
             "Author": "Wemsical",
@@ -576,6 +586,20 @@
             "Post": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cursus euismod quis viverra nibh cras pulvinar. At augue eget arcu dictum varius duis at consectetur lorem. Libero nunc consequat interdum varius sit amet mattis. Vitae proin sagittis nisl rhoncus mattis rhoncus urna neque. Risus sed vulputate odio ut enim blandit volutpat maecenas volutpat. Enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Eget mauris pharetra et ultrices neque ornare aenean euismod elementum. Nisi scelerisque eu ultrices vitae. Quis blandit turpis cursus in hac habitasse platea. Et pharetra pharetra massa massa ultricies. Natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Cras tincidunt lobortis feugiat vivamus at augue eget. Ut porttitor leo a diam sollicitudin. Amet nisl suscipit adipiscing bibendum est ultricies integer quis. Mauris cursus mattis molestie a iaculis at. Laoreet non curabitur gravida arcu ac.",
             "Author": "Wemsical",
             "Header": "https://i.ibb.co/HnRdqvr/fukayamamo-Cp1-LK6z-NEZ8-unsplash.jpg"
+        }
+    ],
+    "open_calls": [
+        {
+            "Title": "OPEN CALL FOR YOUNG MUSICIANS & BANDS",
+            "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id porta nibh venenatis cras sed. Velit dignissim sodales ut eu sem integer vitae justo eget. Urna duis convallis convallis tellus id interdum. Nulla facilisi morbi tempus iaculis urna id. Mauris pharetra et ultrices neque ornare aenean. Vitae auctor eu augue ut lectus arcu. Ornare massa eget egestas purus viverra accumsan. Elementum nibh tellus molestie nunc. Egestas integer eget aliquet nibh praesent tristique magna sit. Lorem sed risus ultricies tristique. Interdum posuere lorem ipsum dolor sit. Sit amet volutpat consequat mauris nunc congue nisi vitae. Id nibh tortor id aliquet lectus proin. Orci phasellus egestas tellus rutrum tellus pellentesque. Blandit cursus risus at ultrices mi tempus imperdiet nulla. Amet risus nullam eget felis eget nunc lobortis. Dapibus ultrices in iaculis nunc.Euismod lacinia at quis risus sed vulputate odio ut. Cursus turpis massa tincidunt dui ut ornare lectus. Dolor sit amet consectetur adipiscing elit duis tristique. Ultrices gravida dictum fusce ut placerat orci nulla. Lectus arcu bibendum at varius. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Proin sed libero enim sed. Nunc mattis enim ut tellus elementum sagittis vitae et leo. Diam vulputate ut pharetra sit amet aliquam id diam. Et leo duis ut diam quam nulla. Donec massa sapien faucibus et molestie ac. Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Turpis egestas pretium aenean pharetra magna ac placerat vestibulum. Dui id ornare arcu odio ut sem nulla pharetra diam. Ut tristique et egestas quis. Elit eget gravida cum sociis natoque. Neque gravida in fermentum et sollicitudin ac. Diam maecenas ultricies mi eget. Cursus in hac habitasse platea dictumst quisque sagittis purus.",
+            "Files":[],
+            "URL": "https://docs.google.com/document/d/1ZFuaRjAmsk3Q4zdPLo-PeEKjqIPx8mud/edit"
+        },
+        {
+            "Title": "OPEN CALL FOR YOUNG MUSICIANS & BANDS",
+            "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id porta nibh venenatis cras sed. Velit dignissim sodales ut eu sem integer vitae justo eget. Urna duis convallis convallis tellus id interdum. Nulla facilisi morbi tempus iaculis urna id. Mauris pharetra et ultrices neque ornare aenean. Vitae auctor eu augue ut lectus arcu. Ornare massa eget egestas purus viverra accumsan. Elementum nibh tellus molestie nunc. Egestas integer eget aliquet nibh praesent tristique magna sit. Lorem sed risus ultricies tristique. Interdum posuere lorem ipsum dolor sit. Sit amet volutpat consequat mauris nunc congue nisi vitae. Id nibh tortor id aliquet lectus proin. Orci phasellus egestas tellus rutrum tellus pellentesque. Blandit cursus risus at ultrices mi tempus imperdiet nulla. Amet risus nullam eget felis eget nunc lobortis. Dapibus ultrices in iaculis nunc.Euismod lacinia at quis risus sed vulputate odio ut. Cursus turpis massa tincidunt dui ut ornare lectus. Dolor sit amet consectetur adipiscing elit duis tristique. Ultrices gravida dictum fusce ut placerat orci nulla. Lectus arcu bibendum at varius. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Proin sed libero enim sed. Nunc mattis enim ut tellus elementum sagittis vitae et leo. Diam vulputate ut pharetra sit amet aliquam id diam. Et leo duis ut diam quam nulla. Donec massa sapien faucibus et molestie ac. Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Turpis egestas pretium aenean pharetra magna ac placerat vestibulum. Dui id ornare arcu odio ut sem nulla pharetra diam. Ut tristique et egestas quis. Elit eget gravida cum sociis natoque. Neque gravida in fermentum et sollicitudin ac. Diam maecenas ultricies mi eget. Cursus in hac habitasse platea dictumst quisque sagittis purus.",
+            "Files":[],
+            "URL": "https://docs.google.com/document/d/1ZFuaRjAmsk3Q4zdPLo-PeEKjqIPx8mud/edit"
         }
     ]
 }
