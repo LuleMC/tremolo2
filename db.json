@@ -349,206 +349,260 @@
         }
     ],
     "artists": [
-        {
-            "id": 1,
-            "Name": "Lorem ipsum",
-            "Short_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquet eget sit amet tellus. Sollicitudin tempor id eu nisl nunc. Arcu cursus euismod quis viverra nibh cras. ",
-            "Description": "Nulla porttitor massa id neque aliquam vestibulum morbi. Aliquam sem et tortor consequat. Sagittis orci a scelerisque purus. Sed odio morbi quis commodo. Rhoncus est pellentesque elit ullamcorper. Libero nunc consequat interdum varius sit amet mattis. Sem viverra aliquet eget sit. Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi tristique. \n\nVenenatis urna cursus eget nunc. Euismod nisi porta lorem mollis aliquam ut. In nisl nisi scelerisque eu ultrices vitae. Integer quis auctor elit sed vulputate mi sit amet. At varius vel pharetra vel turpis nunc. Velit aliquet sagittis id consectetur purus ut faucibus. Eget nunc lobortis mattis aliquam faucibus.\n\nTincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin libero. Tellus mauris a diam maecenas sed enim ut. Dignissim sodales ut eu sem integer vitae. Porttitor eget dolor morbi non. Sed sed risus pretium quam vulputate. Id venenatis a condimentum vitae. Arcu risus quis varius quam. Dolor magna eget est lorem ipsum dolor. Enim neque volutpat ac tincidunt vitae semper. Aenean et tortor at risus viverra adipiscing. Sem fringilla ut morbi tincidunt augue interdum. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper sit.\n\nLorem ipsum dolor sit amet consectetur adipiscing elit duis. Nunc mi ipsum faucibus vitae aliquet nec. Duis ut diam quam nulla porttitor massa. Massa id neque aliquam vestibulum. Dui vivamus arcu felis bibendum ut tristique. Ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at.",
-            "Email": null,
-            "FacebookURL": "https://www.facebook.com/",
-            "InstagramURL": "https://www.instagram.com/",
-            "SpotifyURL": "https://www.spotify.com/",
-            "YoutubeURL": "https://www.youtube.com/",
-            "WebsiteURL": "https://www.tremoloproject.eu/",
-            "Country": "Bosnia & Hercegovina",
-            "ITunesURL": "https://www.itunes.com/",
-            "published_at": "2021-05-04T13:53:00.066Z",
-            "created_at": "2021-05-04T13:52:58.165Z",
-            "updated_at": "2021-05-04T20:09:21.195Z",
-            "Pictures": [
-                {
-                    "id": 14,
-                    "name": "motorhead.jpg",
-                    "alternativeText": "",
-                    "caption": "",
-                    "width": 768,
-                    "height": 432,
-                    "formats": {
-                        "thumbnail": {
-                            "name": "thumbnail_motorhead.jpg",
-                            "hash": "thumbnail_motorhead_64fb196e2f",
-                            "ext": ".jpg",
-                            "mime": "image/jpeg",
-                            "width": 245,
-                            "height": 138,
-                            "size": 9.44,
-                            "path": null,
-                            "url": "/uploads/thumbnail_motorhead_64fb196e2f.jpg"
+        [
+            {
+                "pictures": [
+                    {
+                        "_id": "60bcd2a7e194021f785cea2f",
+                        "name": "Zajnal Music.jpg",
+                        "alternativeText": "",
+                        "caption": "",
+                        "hash": "Zajnal_Music_b6fd7751dd",
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "size": 3034.46,
+                        "width": 4096,
+                        "height": 2716,
+                        "url": "/uploads/Zajnal_Music_b6fd7751dd.jpg",
+                        "formats": {
+                            "thumbnail": {
+                                "name": "thumbnail_Zajnal Music.jpg",
+                                "hash": "thumbnail_Zajnal_Music_b6fd7751dd",
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "width": 235,
+                                "height": 156,
+                                "size": 8.45,
+                                "path": null,
+                                "url": "/uploads/thumbnail_Zajnal_Music_b6fd7751dd.jpg"
+                            },
+                            "large": {
+                                "name": "large_Zajnal Music.jpg",
+                                "hash": "large_Zajnal_Music_b6fd7751dd",
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "width": 1000,
+                                "height": 663,
+                                "size": 109.71,
+                                "path": null,
+                                "url": "/uploads/large_Zajnal_Music_b6fd7751dd.jpg"
+                            },
+                            "medium": {
+                                "name": "medium_Zajnal Music.jpg",
+                                "hash": "medium_Zajnal_Music_b6fd7751dd",
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "width": 750,
+                                "height": 497,
+                                "size": 62.28,
+                                "path": null,
+                                "url": "/uploads/medium_Zajnal_Music_b6fd7751dd.jpg"
+                            },
+                            "small": {
+                                "name": "small_Zajnal Music.jpg",
+                                "hash": "small_Zajnal_Music_b6fd7751dd",
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "width": 500,
+                                "height": 332,
+                                "size": 28.71,
+                                "path": null,
+                                "url": "/uploads/small_Zajnal_Music_b6fd7751dd.jpg"
+                            }
                         },
-                        "medium": {
-                            "name": "medium_motorhead.jpg",
-                            "hash": "medium_motorhead_64fb196e2f",
-                            "ext": ".jpg",
-                            "mime": "image/jpeg",
-                            "width": 750,
-                            "height": 422,
-                            "size": 51.4,
-                            "path": null,
-                            "url": "/uploads/medium_motorhead_64fb196e2f.jpg"
+                        "provider": "local",
+                        "related": [
+                            "60bcd2b4e194021f785cea31"
+                        ],
+                        "createdAt": "2021-06-06T13:50:31.578Z",
+                        "updatedAt": "2021-06-06T13:50:44.213Z",
+                        "__v": 0,
+                        "id": "60bcd2a7e194021f785cea2f"
+                    }
+                ],
+                "_id": "60bcd2b4e194021f785cea31",
+                "name": "Zajnal",
+                "short_description": "A Transylvanian recorder, a Hungarian zither, a cajon and a bass guitar all from different backgrounds and music taste, all united by the same love for their intangible heritage.\n",
+                "description": "Founded in 2015 by Gábor Kovács (Tindia) and Boldizsár Tamás, the duo started out as a cautious attempt at placing traditional instruments in a unique context, drawing respectably from an authentic folklore repertoire. Later accompanied by Róbert Schneider (Speakers of Zion) and Zsolt Moldván (Ethnofil, now Odd ID), folk tunes slowly took the back seat as our style evolved to what it is now: designer folk. \nOur sound is unquestionably rooted in Hungarian folklore, thanks to the extensive use of instruments like the zither, or the shepherd’s flute, but our music evolved pretty far beyond that. Building firmly on the combination of stirring basslines and the evocative rhythms of the cajon, we have turned more to creating original instrumental pop pieces, incorporating various different stylistic elements from multiple genres, including rock, funky, and even EDM.\nLast year, we became the discovery of the year in the national musical talent development programme Öröm a zene, and this year, we are participating in a nation-wide mentorship programme —Hangfoglaló Program— organized by the National Cultural Fund of Hungary.\n\n**MEMBERS**\n- Boldizsár Tamás - hungarian zither \n- Gábor Kovács - hungarian shepherd’s flute, jaw harp \n- Róbert Schneider - bass guitar \n- Zsolt Moldván - cajon\n",
+                "spotifyURL": " https://open.spotify.com/artist/0fPavCFAklDixqi98zT05V",
+                "video_link": "https://www.youtube.com/embed/jk9oy0XXVuY",
+                "published_at": "2021-06-06T13:50:49.318Z",
+                "createdAt": "2021-06-06T13:50:44.052Z",
+                "updatedAt": "2021-06-06T13:52:34.373Z",
+                "__v": 0,
+                "country": "Hungary",
+                "id": "60bcd2b4e194021f785cea31",
+                "picture_link": "https://i.ibb.co/YXJRL5x/Zajnal-Music.jpg"
+            },
+            {
+                "pictures": [
+                    {
+                        "_id": "60bcd2a7e194021f785cea2e",
+                        "name": "Jacaranda Avola.jpg",
+                        "alternativeText": "",
+                        "caption": "",
+                        "hash": "Jacaranda_Avola_ee3d08e2d3",
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "size": 504.32,
+                        "width": 1776,
+                        "height": 1184,
+                        "url": "/uploads/Jacaranda_Avola_ee3d08e2d3.jpg",
+                        "formats": {
+                            "thumbnail": {
+                                "name": "thumbnail_Jacaranda Avola.jpg",
+                                "hash": "thumbnail_Jacaranda_Avola_ee3d08e2d3",
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "width": 234,
+                                "height": 156,
+                                "size": 12.99,
+                                "path": null,
+                                "url": "/uploads/thumbnail_Jacaranda_Avola_ee3d08e2d3.jpg"
+                            },
+                            "large": {
+                                "name": "large_Jacaranda Avola.jpg",
+                                "hash": "large_Jacaranda_Avola_ee3d08e2d3",
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "width": 1000,
+                                "height": 667,
+                                "size": 174.09,
+                                "path": null,
+                                "url": "/uploads/large_Jacaranda_Avola_ee3d08e2d3.jpg"
+                            },
+                            "medium": {
+                                "name": "medium_Jacaranda Avola.jpg",
+                                "hash": "medium_Jacaranda_Avola_ee3d08e2d3",
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "width": 750,
+                                "height": 500,
+                                "size": 100.62,
+                                "path": null,
+                                "url": "/uploads/medium_Jacaranda_Avola_ee3d08e2d3.jpg"
+                            },
+                            "small": {
+                                "name": "small_Jacaranda Avola.jpg",
+                                "hash": "small_Jacaranda_Avola_ee3d08e2d3",
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "width": 500,
+                                "height": 333,
+                                "size": 49.38,
+                                "path": null,
+                                "url": "/uploads/small_Jacaranda_Avola_ee3d08e2d3.jpg"
+                            }
                         },
-                        "small": {
-                            "name": "small_motorhead.jpg",
-                            "hash": "small_motorhead_64fb196e2f",
-                            "ext": ".jpg",
-                            "mime": "image/jpeg",
-                            "width": 500,
-                            "height": 281,
-                            "size": 28.53,
-                            "path": null,
-                            "url": "/uploads/small_motorhead_64fb196e2f.jpg"
-                        }
-                    },
-                    "hash": "motorhead_64fb196e2f",
-                    "ext": ".jpg",
-                    "mime": "image/jpeg",
-                    "size": 49.1,
-                    "url": "/uploads/motorhead_64fb196e2f.jpg",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "created_at": "2021-05-04T13:52:52.119Z",
-                    "updated_at": "2021-05-04T13:52:52.152Z"
-                },
-                {
-                    "id": 15,
-                    "name": "All-Them-Witches.jpg",
-                    "alternativeText": "",
-                    "caption": "",
-                    "width": 1500,
-                    "height": 750,
-                    "formats": {
-                        "thumbnail": {
-                            "name": "thumbnail_All-Them-Witches.jpg",
-                            "hash": "thumbnail_All_Them_Witches_ce1461b0cb",
-                            "ext": ".jpg",
-                            "mime": "image/jpeg",
-                            "width": 245,
-                            "height": 123,
-                            "size": 9.09,
-                            "path": null,
-                            "url": "/uploads/thumbnail_All_Them_Witches_ce1461b0cb.jpg"
+                        "provider": "local",
+                        "related": [
+                            "60bcd2fee194021f785cea33"
+                        ],
+                        "createdAt": "2021-06-06T13:50:31.127Z",
+                        "updatedAt": "2021-06-06T13:51:58.450Z",
+                        "__v": 0,
+                        "id": "60bcd2a7e194021f785cea2e"
+                    }
+                ],
+                "_id": "60bcd2fee194021f785cea33",
+                "name": "Jacarànda",
+                "short_description": "Jacarànda is their name and they are \"la piccola orchestra giovanile dell'Etna\", meaning the young and small orchestra from Etna. They are a young World Music ensemble with the objective of renovating the repertoire of traditional Sicilian music, through cross-contaminations with contemporary artists and traditions from all over the world.\n",
+                "description": "Our group is a very flexible ensemble and according to the context can be composed of a variable number of 5 to 15 musicians, all of them young and versatile multi-instrumentalists who are united by a strong bond with musical tradition in our homeland and by the love of traditional instruments from Sicily and the whole world. With our Piccola Orchestra we like to compose and perform original songs to tell simple stories, but with relevant underlying social themes. Striving to connect Local and Global in a culturally-polyhedric world that still manages to be “One”.\n",
+                "spotifyURL": "https://open.spotify.com/album/7h2E660Iz65vCtOjeAgz9p?si=DzdjkxjBQp-WyD6hyF2xIA",
+                "video_link": "https://www.youtube.com/embed/LgIbICY2DwA",
+                "country": "Italy",
+                "published_at": "2021-06-06T13:52:17.685Z",
+                "createdAt": "2021-06-06T13:51:58.253Z",
+                "updatedAt": "2021-06-06T13:52:17.996Z",
+                "__v": 0,
+                "id": "60bcd2fee194021f785cea33",
+                "picture_link":"https://i.ibb.co/pzx7Ymp/Jacaranda-Avola.jpg"
+            },
+            {
+                "pictures": [
+                    {
+                        "_id": "60bcd2a7e194021f785cea30",
+                        "name": "KurtaUtca.jpg",
+                        "alternativeText": "",
+                        "caption": "",
+                        "hash": "Kurta_Utca_cc74998081",
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "size": 1615.41,
+                        "width": 5400,
+                        "height": 3577,
+                        "url": "/uploads/Kurta_Utca_cc74998081.jpg",
+                        "formats": {
+                            "thumbnail": {
+                                "name": "thumbnail_KurtaUtca.jpg",
+                                "hash": "thumbnail_Kurta_Utca_cc74998081",
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "width": 236,
+                                "height": 156,
+                                "size": 9.29,
+                                "path": null,
+                                "url": "/uploads/thumbnail_Kurta_Utca_cc74998081.jpg"
+                            },
+                            "large": {
+                                "name": "large_KurtaUtca.jpg",
+                                "hash": "large_Kurta_Utca_cc74998081",
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "width": 1000,
+                                "height": 662,
+                                "size": 96.13,
+                                "path": null,
+                                "url": "/uploads/large_Kurta_Utca_cc74998081.jpg"
+                            },
+                            "medium": {
+                                "name": "medium_KurtaUtca.jpg",
+                                "hash": "medium_Kurta_Utca_cc74998081",
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "width": 750,
+                                "height": 497,
+                                "size": 59.58,
+                                "path": null,
+                                "url": "/uploads/medium_Kurta_Utca_cc74998081.jpg"
+                            },
+                            "small": {
+                                "name": "small_KurtaUtca.jpg",
+                                "hash": "small_Kurta_Utca_cc74998081",
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "width": 500,
+                                "height": 331,
+                                "size": 30.3,
+                                "path": null,
+                                "url": "/uploads/small_Kurta_Utca_cc74998081.jpg"
+                            }
                         },
-                        "large": {
-                            "name": "large_All-Them-Witches.jpg",
-                            "hash": "large_All_Them_Witches_ce1461b0cb",
-                            "ext": ".jpg",
-                            "mime": "image/jpeg",
-                            "width": 1000,
-                            "height": 500,
-                            "size": 80,
-                            "path": null,
-                            "url": "/uploads/large_All_Them_Witches_ce1461b0cb.jpg"
-                        },
-                        "medium": {
-                            "name": "medium_All-Them-Witches.jpg",
-                            "hash": "medium_All_Them_Witches_ce1461b0cb",
-                            "ext": ".jpg",
-                            "mime": "image/jpeg",
-                            "width": 750,
-                            "height": 375,
-                            "size": 51.34,
-                            "path": null,
-                            "url": "/uploads/medium_All_Them_Witches_ce1461b0cb.jpg"
-                        },
-                        "small": {
-                            "name": "small_All-Them-Witches.jpg",
-                            "hash": "small_All_Them_Witches_ce1461b0cb",
-                            "ext": ".jpg",
-                            "mime": "image/jpeg",
-                            "width": 500,
-                            "height": 250,
-                            "size": 28.57,
-                            "path": null,
-                            "url": "/uploads/small_All_Them_Witches_ce1461b0cb.jpg"
-                        }
-                    },
-                    "hash": "All_Them_Witches_ce1461b0cb",
-                    "ext": ".jpg",
-                    "mime": "image/jpeg",
-                    "size": 142.84,
-                    "url": "/uploads/All_Them_Witches_ce1461b0cb.jpg",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "created_at": "2021-05-04T13:52:52.271Z",
-                    "updated_at": "2021-05-04T13:52:52.287Z"
-                },
-                {
-                    "id": 16,
-                    "name": "2019_tool_press_2000x1270.jpg",
-                    "alternativeText": "",
-                    "caption": "",
-                    "width": 2000,
-                    "height": 1270,
-                    "formats": {
-                        "thumbnail": {
-                            "name": "thumbnail_2019_tool_press_2000x1270.jpg",
-                            "hash": "thumbnail_2019_tool_press_2000x1270_88b3e89697",
-                            "ext": ".jpg",
-                            "mime": "image/jpeg",
-                            "width": 245,
-                            "height": 156,
-                            "size": 6.89,
-                            "path": null,
-                            "url": "/uploads/thumbnail_2019_tool_press_2000x1270_88b3e89697.jpg"
-                        },
-                        "large": {
-                            "name": "large_2019_tool_press_2000x1270.jpg",
-                            "hash": "large_2019_tool_press_2000x1270_88b3e89697",
-                            "ext": ".jpg",
-                            "mime": "image/jpeg",
-                            "width": 1000,
-                            "height": 635,
-                            "size": 78.98,
-                            "path": null,
-                            "url": "/uploads/large_2019_tool_press_2000x1270_88b3e89697.jpg"
-                        },
-                        "medium": {
-                            "name": "medium_2019_tool_press_2000x1270.jpg",
-                            "hash": "medium_2019_tool_press_2000x1270_88b3e89697",
-                            "ext": ".jpg",
-                            "mime": "image/jpeg",
-                            "width": 750,
-                            "height": 476,
-                            "size": 45.61,
-                            "path": null,
-                            "url": "/uploads/medium_2019_tool_press_2000x1270_88b3e89697.jpg"
-                        },
-                        "small": {
-                            "name": "small_2019_tool_press_2000x1270.jpg",
-                            "hash": "small_2019_tool_press_2000x1270_88b3e89697",
-                            "ext": ".jpg",
-                            "mime": "image/jpeg",
-                            "width": 500,
-                            "height": 318,
-                            "size": 22.3,
-                            "path": null,
-                            "url": "/uploads/small_2019_tool_press_2000x1270_88b3e89697.jpg"
-                        }
-                    },
-                    "hash": "2019_tool_press_2000x1270_88b3e89697",
-                    "ext": ".jpg",
-                    "mime": "image/jpeg",
-                    "size": 316.17,
-                    "url": "/uploads/2019_tool_press_2000x1270_88b3e89697.jpg",
-                    "previewUrl": null,
-                    "provider": "local",
-                    "provider_metadata": null,
-                    "created_at": "2021-05-04T13:52:52.403Z",
-                    "updated_at": "2021-05-04T13:52:52.447Z"
-                }
-            ]
-        }
+                        "provider": "local",
+                        "related": [
+                            "60bcd366e194021f785cea35"
+                        ],
+                        "createdAt": "2021-06-06T13:50:31.695Z",
+                        "updatedAt": "2021-06-06T13:53:42.909Z",
+                        "__v": 0,
+                        "id": "60bcd2a7e194021f785cea30"
+                    }
+                ],
+                "_id": "60bcd366e194021f785cea35",
+                "name": "KurtaUtca ",
+                "short_description": "An alternative-folk band based in Subotica, Serbia. Active since 2018. Started as an acoustic\nduo, now functioning as a full-blown band with five members.\n",
+                "description": "Our identity lies where we come from, Vojvodina. Even a chunk of our lyrical concept deals with the idea of home and this very special place, which is truly a multi-cultural area. Our voice speaks from the heart of a minority, as we are trying to preach love and acceptance.\nTherefore, our ambition is to create a community of like-minded friends and fans in Vojvodina as well as in the whole Balkan peninsula and other parts of Europe. For now, the band has played multiple shows in Serbia and Hungary but has never been any further than their borders. We believe, if we could learn more about the music industry through collaborations and we could gain some new experiences outside our comfort zone, we could reach our full potential as a band. After all, we are trying to put our band on the map of world music and rock'n'roll.\n",
+                "spotifyURL": " https://open.spotify.com/artist/6Du5su5bY1Us1cPvRBTPSq",
+                "video_link": "https://www.youtube.com/embed/FiPnAYXYsqM",
+                "country": "Serbia",
+                "published_at": "2021-06-06T13:53:53.872Z",
+                "createdAt": "2021-06-06T13:53:42.761Z",
+                "updatedAt": "2021-06-06T13:53:54.176Z",
+                "__v": 0,
+                "id": "60bcd366e194021f785cea35",
+                "picture_link":"https://i.ibb.co/09LxQhS/Kurta-Utca.jpg"
+            }
+        ]
     ],
     "blogs": [
         {
@@ -592,13 +646,13 @@
         {
             "Title": "OPEN CALL FOR YOUNG MUSICIANS & BANDS",
             "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id porta nibh venenatis cras sed. Velit dignissim sodales ut eu sem integer vitae justo eget. Urna duis convallis convallis tellus id interdum. Nulla facilisi morbi tempus iaculis urna id. Mauris pharetra et ultrices neque ornare aenean. Vitae auctor eu augue ut lectus arcu. Ornare massa eget egestas purus viverra accumsan. Elementum nibh tellus molestie nunc. Egestas integer eget aliquet nibh praesent tristique magna sit. Lorem sed risus ultricies tristique. Interdum posuere lorem ipsum dolor sit. Sit amet volutpat consequat mauris nunc congue nisi vitae. Id nibh tortor id aliquet lectus proin. Orci phasellus egestas tellus rutrum tellus pellentesque. Blandit cursus risus at ultrices mi tempus imperdiet nulla. Amet risus nullam eget felis eget nunc lobortis. Dapibus ultrices in iaculis nunc.Euismod lacinia at quis risus sed vulputate odio ut. Cursus turpis massa tincidunt dui ut ornare lectus. Dolor sit amet consectetur adipiscing elit duis tristique. Ultrices gravida dictum fusce ut placerat orci nulla. Lectus arcu bibendum at varius. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Proin sed libero enim sed. Nunc mattis enim ut tellus elementum sagittis vitae et leo. Diam vulputate ut pharetra sit amet aliquam id diam. Et leo duis ut diam quam nulla. Donec massa sapien faucibus et molestie ac. Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Turpis egestas pretium aenean pharetra magna ac placerat vestibulum. Dui id ornare arcu odio ut sem nulla pharetra diam. Ut tristique et egestas quis. Elit eget gravida cum sociis natoque. Neque gravida in fermentum et sollicitudin ac. Diam maecenas ultricies mi eget. Cursus in hac habitasse platea dictumst quisque sagittis purus.",
-            "Files":[],
+            "Files": [],
             "URL": "https://docs.google.com/document/d/1ZFuaRjAmsk3Q4zdPLo-PeEKjqIPx8mud/edit"
         },
         {
             "Title": "OPEN CALL FOR YOUNG MUSICIANS & BANDS",
             "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id porta nibh venenatis cras sed. Velit dignissim sodales ut eu sem integer vitae justo eget. Urna duis convallis convallis tellus id interdum. Nulla facilisi morbi tempus iaculis urna id. Mauris pharetra et ultrices neque ornare aenean. Vitae auctor eu augue ut lectus arcu. Ornare massa eget egestas purus viverra accumsan. Elementum nibh tellus molestie nunc. Egestas integer eget aliquet nibh praesent tristique magna sit. Lorem sed risus ultricies tristique. Interdum posuere lorem ipsum dolor sit. Sit amet volutpat consequat mauris nunc congue nisi vitae. Id nibh tortor id aliquet lectus proin. Orci phasellus egestas tellus rutrum tellus pellentesque. Blandit cursus risus at ultrices mi tempus imperdiet nulla. Amet risus nullam eget felis eget nunc lobortis. Dapibus ultrices in iaculis nunc.Euismod lacinia at quis risus sed vulputate odio ut. Cursus turpis massa tincidunt dui ut ornare lectus. Dolor sit amet consectetur adipiscing elit duis tristique. Ultrices gravida dictum fusce ut placerat orci nulla. Lectus arcu bibendum at varius. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Proin sed libero enim sed. Nunc mattis enim ut tellus elementum sagittis vitae et leo. Diam vulputate ut pharetra sit amet aliquam id diam. Et leo duis ut diam quam nulla. Donec massa sapien faucibus et molestie ac. Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Turpis egestas pretium aenean pharetra magna ac placerat vestibulum. Dui id ornare arcu odio ut sem nulla pharetra diam. Ut tristique et egestas quis. Elit eget gravida cum sociis natoque. Neque gravida in fermentum et sollicitudin ac. Diam maecenas ultricies mi eget. Cursus in hac habitasse platea dictumst quisque sagittis purus.",
-            "Files":[],
+            "Files": [],
             "URL": "https://docs.google.com/document/d/1ZFuaRjAmsk3Q4zdPLo-PeEKjqIPx8mud/edit"
         }
     ]
