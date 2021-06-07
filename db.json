@@ -432,7 +432,7 @@
                 "country": "Hungary",
                 "id": "60bcd2b4e194021f785cea31",
                 "picture_link": "https://i.ibb.co/YXJRL5x/Zajnal-Music.jpg",
-                "facebookUrl": "https://www.facebook.com/zajnalmusic",
+                "facebookURL": "https://www.facebook.com/zajnalmusic",
                 "instagramURL": "https://www.instagram.com/zajnalmusic/",
                 "youtubeURL": "https://www.youtube.com/channel/UCPXgaompyUasfB6eC-Q2_mw"
             },
@@ -519,7 +519,7 @@
                 "__v": 0,
                 "id": "60bcd2fee194021f785cea33",
                 "picture_link":"https://i.ibb.co/pzx7Ymp/Jacaranda-Avola.jpg",
-                "facebookUrl":"https://www.facebook.com/jacarandapoge",
+                "facebookURL":"https://www.facebook.com/jacarandapoge",
                 "instagramURL":"https://www.instagram.com/orchestrajacaranda/",
                 "youtubeURL":"https://www.youtube.com/channel/UCK7sSOF3AKZ3vKf_xjEqZ9g"
             },
@@ -606,7 +606,7 @@
                 "__v": 0,
                 "id": "60bcd366e194021f785cea35",
                 "picture_link":"https://i.ibb.co/09LxQhS/Kurta-Utca.jpg",
-                "facebookUrl":"https://www.facebook.com/kurtautca",
+                "facebookURL":"https://www.facebook.com/kurtautca",
                 "instagramURL":"https://www.instagram.com/kurtautca_ig/",
                 "youtubeURL":"https://www.youtube.com/channel/UCwymR7o-yftSEBJkjx3Gd_"
             }
